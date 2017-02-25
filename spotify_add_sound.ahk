@@ -2,13 +2,13 @@
 
 ^Space::							; ctrl+space -- add sound to music
 {
-	SpotifyToggle("icon_add.png")
+	SpotifyToggle("static/icon_add.png")
 	return
 }
 
 +^Space::							; shift+ctrl+space -- remove sound from music
 {
-	SpotifyToggle("icon_remove.png")
+	SpotifyToggle("static/icon_remove.png")
 	return
 }
 
