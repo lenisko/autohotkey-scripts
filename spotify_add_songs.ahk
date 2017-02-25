@@ -1,4 +1,4 @@
-; Spotify - add or remove sound from 'Your music' - https://github.com/lenisko/spotify-ahk
+; Spotify - add or remove songs from 'Your music' - https://github.com/lenisko/spotify-ahk
 
 ^Space::							; ctrl+space -- add sound to music
 {
