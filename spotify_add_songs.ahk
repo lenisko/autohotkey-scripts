@@ -1,12 +1,12 @@
 ; Spotify - add or remove songs from 'Your music' - https://github.com/lenisko/spotify-ahk
 
-^Space::							; ctrl+space -- add sound to music
+^Space::							; ctrl+space -- add song to music
 {
 	SpotifyToggle("static/icon_add.png")
 	return
 }
 
-+^Space::							; shift+ctrl+space -- remove sound from music
++^Space::							; shift+ctrl+space -- remove song from music
 {
 	SpotifyToggle("static/icon_remove.png")
 	return
