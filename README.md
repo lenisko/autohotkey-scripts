@@ -11,5 +11,5 @@ Script used to add or remove currently played songs to 'Your music'. By default 
 Use MOUSE4 and MOUSE5 to play next and previous tracks only when Spotify window is active.
 
 ## System scripts
-### Suspend system
+### suspend_system.ahk
 Simple script used to suspend system after provided time (in minutes).
