@@ -1,6 +1,7 @@
 # Autohotkey Scripts
 Few scripts written in AutoHotKey to make life easier
 
+## Spotify
 ### spotify_add_songs.ahk
 Script used to add or remove currently played songs to 'Your music'. By default there are two actions:
 * Ctrl+Space - add track to Your music
@@ -8,3 +9,7 @@ Script used to add or remove currently played songs to 'Your music'. By default 
 
 ### spotify_play_next_previous.ahk
 Use MOUSE4 and MOUSE5 to play next and previous tracks only when Spotify window is active.
+
+## System scripts
+### Suspend system
+Simple script used to suspend system after provided time (in minutes).
